@@ -1,0 +1,14 @@
+﻿{
+    "name": "em",
+    "description": "em",
+    "logo":"em",
+    "keywords": ["em"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/texcd/em",
+    "stack": "container"
+}
